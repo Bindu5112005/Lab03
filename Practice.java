@@ -6,6 +6,6 @@ int sum = a+b;
 System.out.println("The sum is"+sum);
   System.out.println("hii");
   System.out.println("hii bindu");
-  System.out.println("how are u");
+  System.out.println("End");
 }
 }
